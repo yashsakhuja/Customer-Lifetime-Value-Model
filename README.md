@@ -24,6 +24,3 @@ Clone the repository to your local machine.
 Install the necessary dependencies using pip or conda.
 Run the Streamlit application to explore the CLTV model and its insights.
 
-Join us in revolutionizing retail analytics and maximizing customer lifetime value with this CLTV prediction project!
-
-
