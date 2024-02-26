@@ -1,5 +1,5 @@
 # Customer-Lifetime-Value-Model
-This project aims to revolutionize retail and marketing analytics by leveraging cutting-edge machine learning techniques to forecast customer lifetime value. . Using a real-world retail dataset focused on guitar sales, our Python-based CLTV model offers valuable insights for businesses seeking to optimise their marketing strategies and enhance customer retention.
+This project aims to build retail and marketing analytics by leveraging statistical techniques to forecast customer lifetime value. . Using a real-world retail dataset focused on guitar sales, our Python-based CLTV model offers valuable insights for businesses seeking to optimise their marketing strategies and enhance customer retention.
 
 ### Key Features:
 CLTV Model: Utilizes the BG/NBD model to predict customer transactions based on RFM (Recency, Frequency, Monetary Value) analysis.
